@@ -1,0 +1,118 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: rgb(254, 255, 177);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#container {
+  /*width: 70%;*/
+  background-color: rgb(9, 112, 160);
+  height: 100px;
+  width: 1100px;
+  margin: 0px auto;
+  border: 1px solid rgba(255, 0, 0, 0.596);
+}
+header {
+  background-color: rgb(255, 60, 0);
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  line-height: 100px;
+  border-bottom: 3px dashed;
+}
+#content {
+  float: left;
+  width: 80%;
+  min-height: 2211px;
+  background-color: gray;
+}
+.clear {
+  clear: both;
+}
+aside {
+  float: left;
+  width: 20%;
+  min-height: 2211px;
+  background-color: brown;
+}
+
+h1 {
+  color: hsl(0, 0%, 100%);
+  
+}
+p {
+  color: rgb(0, 0, 0);
+}
+h2 {
+  color: rgb(255, 2, 150);
+  text-align: center;
+}
+style font-size {
+  color: rgb(44, 17, 197);
+}
+footer {
+  background-color: black;
+  color: blue;
+  text-align: center;
+  line-height: 50px;
+}
+/* Reseteo básico */
+body { margin: 0; font-family: sans-serif; }
+
+/* Estilos header */
+.header {
+  background-color: #000000;
+  color: rgb(163, 25, 226);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+/* Ocultar checkbox */
+.menu-toggle { display: none; }
+
+/* Icono hamburguesa */
+.menu-icon {
+  cursor: pointer;
+  font-size: 25px;
+}
+
+/* Menú oculto por defecto en móvil */
+.menu {
+  display: none;
+  flex-direction: column;
+  width: 100%;
+  position: absolute;
+  top: 60px; /* Ajustar según altura del header */
+  left: 0;
+  background-color: #62af9c;
+  list-style: none;
+  padding: 0;
+}
+
+.menu li a {
+  display: block;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+}
+
+/* Lógica: Mostrar menú al hacer click (check) */
+.menu-toggle:checked ~ .menu {
+  display: flex;
+}
+
+/* Media Query para escritorio */
+@media (min-width: 768px) {
+  .menu-icon { display: none; }
+  .menu {
+    display: flex;
+    position: static;
+    flex-direction: row;
+    width: auto;
+    background-color: transparent;
+  }
+}

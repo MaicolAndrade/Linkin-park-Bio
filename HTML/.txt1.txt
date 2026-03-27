@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+      <head>
+	  	   <link rel="icono" href="God-Of-War-Ragnarok-Logo-PNG-Photos.png">
+           <title>God of war</title>
+      </head>
+      <body bgcolor="celeste">
+      <center>
+      <br>
+      <font color="red">
+      <h1>Gof of war</h1>
+      </font>
+      <hr>
+      </center>
+	<header>
+	       <center>
+               <font color="red">
+               <h1> Que es </h1>
+               </font>
+               </center>
+               <font color="black">
+ 	       <p>God of War es una franquicia de videojuegos de acción y aventura creada por David Jaffe desarrollada por Santa Monica Studio de Sony. Comenzó en 2005 en la consola de videojuegos PlayStation 2 (PS2) y se ha convertido en una serie insignia para PlayStation, compuesta por nueve entregas en múltiples plataformas. Basada en mitologías antiguas, la trama de la serie sigue a Kratos, un guerrero espartano que se convierte en el Dios de la Guerra y entra en conflicto con varios panteones mitológicos. Los primeros juegos de la serie se basan en la mitología griega y ven a Kratos seguir un camino de venganza contra los dioses olímpicos; Los juegos posteriores se basan en la mitología nórdica y ven a Kratos en un camino de redención al mismo tiempo que presentan a su hijo Atreus como protagonista secundario, ya que entran en conflicto o interactúan con varias deidades y figuras nórdicas. Santa Monica Studio ha desarrollado todas las entregas principales, mientras que Ready at Dawn y Javaground/Sony Online Entertainment-Los Angeles (SOE-LA) desarrollaron los tres juegos secundarios. Sony Interactive Entertainment (SIE) ha publicado todos los juegos excepto la entrega para teléfonos móviles, que fue publicada por Sony Pictures Digital. Los primeros siete juegos conforman la era griega de la franquicia. God of War (2005), God of War II (2007) y God of War III (2010) comprenden su trilogía principal; los dos primeros se lanzaron en la PS2 y el tercero en la PlayStation 3 (PS3). También se lanzó una precuela, Ascension (2013), para PS3. Otros juegos incluyen Chains of Olympus (2008) y Ghost of Sparta (2010) para PlayStation Portable (PSP) y Betrayal (2007) para teléfonos móviles compatibles con la plataforma Java, Micro Edition (Java ME). La era nórdica comenzó con el juego God of War de 2018, que se lanzó para PlayStation 4 (PS4) y luego para Windows en enero de 2022. Estuvo acompañado de una breve precuela, A Call from the Wilds (2018), un juego basado en texto a través de Facebook Messenger. Una secuela, Ragnarök, se lanzó en noviembre de 2022 para PS4 y PlayStation 5 (PS5) y concluyó la era nórdica, que recibió un epílogo en forma de paquete de expansión titulado Valhalla en diciembre de 2023; En septiembre de 2024 se lanzó una versión de Ragnarök para Windows. Los juegos de la serie han sido elogiados como algunos de los mejores juegos de acción de todos los tiempos. La serie ha recibido numerosos premios, incluidos varios reconocimientos al Juego del Año por las entregas de 2005 y 2018. Algunos juegos también han sido remasterizados para plataformas PlayStation más nuevas. Hasta noviembre de 2023, la franquicia ha vendido aproximadamente más de 66 millones de juegos en todo el mundo y es la marca propia más rentable de PlayStation. Las fuertes ventas y el apoyo de la serie llevaron a la expansión de la franquicia a otros medios, como tres series de cómics y tres novelas. Se había estado desarrollando una adaptación cinematográfica de la entrega original, pero finalmente fue cancelada; sin embargo, se está desarrollando una adaptación de una serie de televisión de la era nórdica para Amazon Prime Video. La mercancía incluye obras de arte, ropa, juguetes y réplicas de accesorios, así como las bandas sonoras de los juegos, incluido un álbum de heavy metal, Blood & Metal (2010), con música original de varias bandas que se inspiraron en la serie. El 14 de enero de 2026 se anunció que Ryan Hurst será Kratos[1]​ en la serie de God of War de Prime Video.</p>
+	       </font>
+	       
+			<Section>
+				<center>
+				<font color="red">
+				<h1> Historia </h1>
+				</font>
+				</center>
+			</selection>
+				<font color="black">
+					<p>La infancia de Kratos es explicada durante el desarrollo del primer juego. Es maltratado, como solía hacerse a los niños altos y fuertes en la antigua Grecia. A su hermano, al tener una marca que el oráculo predijo que portaría el que causara la perdición del Olimpo, Ares lo secuestra y lo lleva al reino de la muerte.
+
+Después de recibir entrenamiento, Kratos, ya casado y con una hija, Calíope, se convierte en un gran general del ejército espartano y prometió no detenerse hasta que la gloria de Esparta estuviera en lo más alto. Las tácticas de sus ejércitos eran brutales, pero muy efectivas. Sin embargo, un día, un enfrentamiento contra el ejército bárbaro dio un resultado adverso para su armada. Con su ejército destruido y a punto de ser asesinado por el líder bárbaro, Kratos pide la ayuda de Ares, el dios de la guerra, ofreciéndole su vida a cambio. El dios desciende de los cielos y acaba con todos los enemigos, y luego entrega a Kratos las Espadas de Caos, que son adheridas a sus brazos por cadenas.
+
+El guerrero espartano sucumbe totalmente al poder de Ares, quien le exige ciertas tareas de destrucción y conquista. Las tácticas del ejército de Kratos son aún más brutales que antes, asesinando sanguinariamente a cualquiera que opusiera alguna mínima resistencia. En una de sus misiones, Kratos debía quemar una aldea que se oponía a la armada de Esparta. En su afán de sangre y conquista, Kratos quiso ingresar al templo de la aldea, el oráculo le advierte que no debía entrar, sin embargo la hace a un lado e ingresa, asesinando a todos los presentes. Cuando lanza por última vez sus espadas hacia sus víctimas, entiende que había asesinado a su esposa e hija. Kratos queda devastado y como castigo por tal acción y brutalidad, tendría adheridas sobre su piel las cenizas de su esposa e hija por la eternidad; aunque Ares le explica que hizo eso para que no tenga ningún lazo afectivo y poder convertirlo en el guerrero perfecto, aun así, el guerrero espartano renunció a seguir siendo el súbdito del dios de la guerra.</p>
+		<center>
+               <font color="red">
+               <h2> Listado </h2>
+               </font>
+               </center>
+               <font color="black">
+ 	       <p>Creada por David Jaffe en Sony Santa Monica en 2005, la serie sigue la venganza de Kratos, el espartano que se convertirá en Dios de la Guerra, contra los dioses del Olimpo. Los juegos basados en la mitología griega han sido numerosos y se han publicado en PS2 y PS3, e incluso hubo entregas para la primera consola portátil de Sony, PSP. En 2018, bajo la batuta de Cory Barlog, director del segundo juego, la serie se reinició y tiró por otros derroteros tanto en género como en tono. Pasó de ser un hack and slash a una aventura de acción coprotagonizada por Kratos y su hijo Atreus centrada en la narrativa, y se apostó por la mitología nórdica.
+
+En esta página encontrarás el listado completo con todos los juegos de God of War que existen, ordenados según su fecha de lanzamiento para que puedas saber cuál es el último juego de God of War que se ha anunciado o que ya ha salido a la venta, y cuál fue el primer juego de todos con el que se inició la saga.</p>
+	       </font>
+	       <font>
+                      <font color="black">
+				   <ul>
+	                               <li>God of War (2005)</li>
+	                               <li>God of War 2: Divine Retribution</li>
+	                               <li>God of War: Chains of Olympus</li>
+	                 	       <li>God of War III</li>	
+	                 	       <li>God of War Collection </li>
+	               		       <li>God of War II HD</li>
+	               		       <li>God of War HD</li>
+	               		       <li>God of War: Ghost of Sparta</li>
+	               		       <li>God of War Collection Volume II</li>
+	               		       <li>God of War: Ascension</li>
+	               		       <li>God of War III Remasterizado</li>
+	               		       <li>God of War PS5</li>
+	               		       <li>God of War: Ragnarok</li>
+	              		  </ul>	
+					</font>
+					<body>
+              			        <center>
+					<video>	
+					<source src="videoplayback.mp4" type="video/mp4">
+					</video>
+                                        </center>
+					</body>
+					<footer>
+					<a href=".html" target"_blank"> html </a>
+					</footer>		
+</html>

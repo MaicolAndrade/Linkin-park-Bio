@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+      <head>
+		<link rel="stylesheet" href="style.css">
+	  	   <link rel="icono" href="linkin-park-logo.png">
+           <title>Biografia Chester Bennington</title>
+      </head>
+      <body bgcolor="pink">
+      <center>
+      <br>
+      <font color="red">
+      <h1>Chester Bennington</h1>
+      </font>
+      <hr>
+      </center>
+	<header>
+	       <div class="content">
+	           <div class="menu container">
+	               <a href"#" class="logo">logo</a>
+                       <imput type="chechbox" id="menu" />
+	               <label for="menu">
+	                    <img class"menu-icono" src="images/linkin_park-logo_brandlogos.net_xdzee-512x504.png" alt"">
+	               </label>
+                              <nav class"navbar">
+                                 <ul>
+                                     <li><a href="#">inicio</a></li>
+                                     <li><a href="#">concepto</a></li>
+                                     <li><a href="#">procesos</a></li>
+                                     <li><a href="#">contacto</a></li>
+                                 </ul>
+                              </nav>
+		   </di>
+	       </div>
+	       <center>
+               <font color="red">
+               <h1> Biografía </h1>
+               </font>
+               </center>
+               <font color="black">
+ 	       <p>Chester Charles Bennington nació el 20 de marzo de 1976 en Phoenix, Arizona. Su madre era enfermera, mientras que su padre era un detective de la policía que trabajó en casos de abuso sexual infantil.[5]​[6]​ Bennington se interesó por la música a una edad temprana, citando a las bandas Depeche Mode y Stone Temple Pilots como sus primeras inspiraciones,[7]​ y soñaba con convertirse en miembro de Stone Temple Pilots, lo que logró después, cuando se convirtió en su cantante principal.[8]​ Bennington sufrió de abuso sexual por parte de un conocido mayor cuando tenía siete años.[9]​ Tenía miedo de pedir ayuda porque no quería que la gente pensara que era homosexual o mentía, y el abuso continuó hasta la edad de 13 años.[10]​ Sus padres se divorciaron cuando tenía 11 años. El abuso y la situación en el hogar lo afectaron tanto que sintió el impulso de matar personas y huir.[10]​ Para consolarse, dibujó y escribió poesía y canciones.[10]​ Después del divorcio, su padre obtuvo su custodia.[6]​ Bennington 		comenzó a abusar del consumo de marihuana, alcohol, opio, cocaína, metanfetaminas y LSD.[7]​[11]​[6]​ Fue intimidado físicamente en la escuela secundaria, en una entrevista, dijo que fue «golpeado como una muñeca de trapo, por ser delgado y parecer diferente».[12]​ A la edad de 17 años, Bennington se mudó con su madre, quien le prohibió salir de la casa al descubrir que era adicto a las drogas.[6]​ Trabajó en un Burger King antes de comenzar su carrera como músico profesional.[7]​ Finalmente, Bennington pudo superar su adicción a las drogas y luego denunció el uso de drogas en futuras entrevistas.[13]​ Durante una gira de Linkin Park, comenzó a beber mucho.[14]​ En 2011, dijo que había renunciado, y señaló: «Simplemente ya no quiero ser esa persona</p>
+	       </font>
+	       <font>
+                      <font color="black">
+	              <ul>
+	                 <li>Chester Bennington</li>
+	                 <li>Mike Shinoda</li>
+	                 <li>Joe Hahn</li>
+	                 <li>Brad Delson</li>
+	                 <li>Dave Farrell</li>
+	                 <li>Colin Brittain</li>
+	              </ul>
+			  <center>
+ 		        	 <img src="https://www.guioteca.com/curiosidades/files/2020/04/Linkin-Park.jpeg" width="800" height="400"/>
+			  </center>					
+		      </font>
+			<Section>
+				<center>
+				<font color="red">
+				<h2> Muerte de chester bennington </h2>
+				</font>
+				</center>
+			</selection>
+				<font color="black">
+					<p>Chester Bennington nació el 20 de marzo de 1976 en la ciudad Fénix, la capital del estado Arizona de EE. UU. A los 41 años, murió el 20 de julio de 2017 en la ciudad costera Palos Verdes Estates, en California.
+
+			Ese día, el ama de llaves del músico le encontró muerto en su casa, y poco después su muerte fue declarada suicidio por ahorcamiento, aunque no dejó ninguna nota. Esto ocurrió tras pasar unas vacaciones con su esposa y su familia en Arizona. Chester Bennington decidió regresar solo a su residencia de Palos Verdes Estates alegando que tenía trabajo que hacer.
+
+			Al día siguiente de su muerte, se supo que había una botella de alcohol medio vacía en el lugar de su muerte, y un informe de toxicología publicado cinco meses después informó de que se había encontrado "una pequeña cantidad" de alcohol en el cuerpo de Bennington justo en el momento de su muerte. Mientras estaba de vacaciones en Arizona con su esposa y su familia, Bennington regresó a casa solo y dijo que tenía trabajo que hacer.[63]​ Poco antes de las 9:00 a. m. UTC del 20 de julio de 2017, Bennington fue encontrado muerto por su ama de llaves en su casa en Palos Verdes Estates, California.[64]​[65]​ Su muerte fue declarada suicidio por ahorcamiento. Bennington no dejó ninguna nota de suicidio.[66]​ El compañero de banda y amigo cercano Mike Shinoda confirmó su muerte en Twitter y escribió: «Conmocionado y desconsolado, pero es verdad. Una declaración oficial saldrá tan pronto como tengamos una».[67]​ El 21 de julio, Brian Elias, jefe de operaciones de la oficina del médico forense, confirmó que se encont			ró una botella de alcohol medio vacía en la escena, pero no había otras drogas presentes.[68]​ Un informe de toxicología publicado en diciembre informó «una pequeña cantidad» de alcohol en el sistema de Bennington en el momento de la muerte.[69]​
+
+			La muerte de Bennington ocurrió en lo que habría sido el cumpleaños número 53 de Chris Cornell.[70]​ La muerte de Cornell también fue declarada suicidio por ahorcamiento dos meses antes. Después de la muerte de Bennington, Linkin Park canceló el resto de su One More Light Tour y reembolsó las entradas.[</p>
+					</font>
+					<center>
+ 					<img src="https://imagenes.elpais.com/resizer/v2/4PQB6DDDUTF4HCP33JXQSHOSIY.jpg?auth=d52f115e7096b521238dfaa024475c668d7d76a96c8f8fff65e198246d898f4e&width=1960" width="800" height="400"/>
+					<center>
+					<body>
+					<video controls>					
+					<source src="Linkin Park - Crawling (subtitulada en español - lyrics).mp4" type="video/mp4">
+					</video>
+					</body>
+					</center>					
+					<footer>
+					<a href="4.html" target"_blank"> 4 </a>
+					</footer>
+</html>
