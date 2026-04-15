@@ -29,7 +29,7 @@ header {
 #content {
   float: left;
   width: 80%;
-  min-height: 2211px;
+  min-height: 3412px;
   background-color: gray;
 }
 .clear {
@@ -38,7 +38,7 @@ header {
 aside {
   float: left;
   width: 20%;
-  min-height: 2211px;
+  min-height: 3412px;
   background-color: brown;
 }
 
@@ -57,10 +57,14 @@ style font-size {
   color: rgb(44, 17, 197);
 }
 footer {
-  background-color: black;
-  color: blue;
+  background-color: rgb(255, 0, 0);
+  color: rgb(57, 57, 233);
+  padding: 22px 0; /* Espaciado superior e inferior */
+  height: 100px; 
+  width: 100%;
   text-align: center;
-  line-height: 50px;
+  line-height: 100px;
+
 }
 /* Reseteo básico */
 body { margin: 0; font-family: sans-serif; }
@@ -119,4 +123,13 @@ body { margin: 0; font-family: sans-serif; }
     width: auto;
     background-color: transparent;
   }
+}
+.txt2 {
+  font-size: 200%;
+}
+.txt1 {
+  text-align: center;
+  font-weight: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  color: red;
 }
